@@ -7,7 +7,7 @@
 ## 👨‍🏫 **Professores:**
 
 - [Renato Penha](https://www.linkedin.com/in/renato-penha/) - Professor orientador
-- Afonso Cesar - Professor de programação
+- [Victor Hayashi](https://www.linkedin.com/in/vthayashi/) - Professor de programação
 
 ## **📝 Descrição**
 
